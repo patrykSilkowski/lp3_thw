@@ -10,7 +10,7 @@ def gold_room():
     dead("Man, learn to type a number!")
 
   if how_much < 50:
-    print("Nicem you're not greedy, you win!")
+    print("Nice you're not greedy, you win!")
     exit(0)
   else:
     dead("You greedy bastard!")
